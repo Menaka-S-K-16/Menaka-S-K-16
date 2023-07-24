@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Menaka-S-K-16
-- 👍 Wroking as a data analyst ar NielsenIQ
-- 👀 I’m interested in Python programming, Research, Data Science, Machine Learning, Deep Learning and SQL.
+- 👍 I am working as a data analyst at NielsenIQ with 2 years of experience in FMCG domain
+- 👀 I’m interested in Python programming, Research, Data Science, Machine Learning, Deep Learning and SQL
 - 🌱 I’m love to learn new technologies and connect with people to upgrade myself
 - 💞️ I’m looking to collaborate in open source Projects
 - 📫 How to reach me MAIL ID: menakask16011998@gmail.com
