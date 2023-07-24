@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Menaka-S-K-16
-- 👀 I’m interested in Programming, Research, Open Source Contribution
-- 🌱 I’m currently learning new technologies and networking with people
-- 💞️ I’m looking to collaborate on many open source Projects
+- 👍 Wroking as a data analyst ar NielsenIQ
+- 👀 I’m interested in Python programming, Research, Data Science, Machine Learning, Deep Learning and SQL.
+- 🌱 I’m love to learn new technologies and connect with people to upgrade myself
+- 💞️ I’m looking to collaborate in open source Projects
 - 📫 How to reach me MAIL ID: menakask16011998@gmail.com
 
 <!---
